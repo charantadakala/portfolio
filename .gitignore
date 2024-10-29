@@ -1,0 +1,32 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore specific files or folders
+*.tmp
+*.bak
+*.swp
